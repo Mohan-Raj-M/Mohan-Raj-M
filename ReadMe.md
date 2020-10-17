@@ -56,9 +56,9 @@ Git Config          1 min           ░░░░░░░░░░░░░░�
 
 
 
-<summary>📈 My GitHub Stats</summary>
+<summary>📈 Mohan Raj's GitHub Stats</summary>
 
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=Mohan-Raj-M&show_icons=true&theme=gotham" alt="Mohan-Raj-M" />
+<p> <img src="https://github-readme-stats.vercel.app/api?username=Mohan-Raj-M&show_icons=true&theme=gotham" alt="Mohan-Raj-M" />
 
 
 
