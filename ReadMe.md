@@ -55,9 +55,6 @@ Git Config          1 min           ░░░░░░░░░░░░░░�
 <!--END_SECTION:waka-->
 
 
-
-<summary>📈 Mohan Raj's GitHub Stats</summary>
-
 <p> <img src="https://github-readme-stats.vercel.app/api?username=Mohan-Raj-M&show_icons=true&theme=gotham" alt="Mohan-Raj-M" />
 
 
