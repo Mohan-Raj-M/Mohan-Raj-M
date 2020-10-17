@@ -18,7 +18,7 @@
 
 <br />
 
-Hi, I'm [Mohan Raj](), a Full Stack Developer 🚀 from India, currently. Beside's programming, I enjoy eating food and traveling.
+Hi, I'm [Mohan Raj](), a Mobile App Developer 🚀 from India. Beside's programming, I enjoy eating food and traveling.
 
   <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
   
