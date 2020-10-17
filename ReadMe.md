@@ -25,7 +25,7 @@
 
 <br />
 
-Hi, I'm [Mohan Raj](https://blog.abhisheknaidu.tech/), a Full Stack Developer 🚀 from India, currently. Beside's programming, I enjoy eating food and traveling.
+Hi, I'm [Mohan Raj](), a Full Stack Developer 🚀 from India, currently. Beside's programming, I enjoy eating food and traveling.
 
   <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
   
@@ -34,7 +34,7 @@ Hi, I'm [Mohan Raj](https://blog.abhisheknaidu.tech/), a Full Stack Developer �
 - 👨🏽‍💻 I’m currently working on something cool :wink:;
 - 🌱 I’m currently learning dart and C++; 
 - 💬 Ask me about anything, I am happy to help;
-- 📫 How to reach me: [@abhisheknaiidu](https://twitter.com/abhisheknaiidu);
+- 📫 How to reach me: [@MohanRa34666777](https://twitter.com/MohanRa34666777?s=08);
 - 📝[Resume]()
 
 **Languages and Tools:**  
